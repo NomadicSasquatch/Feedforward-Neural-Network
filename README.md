@@ -2,9 +2,9 @@
 A fully custom feedforward neural network framework built from scratch using Python and NumPy. This project demonstrates how to implement feedforward neural networks entirely from scratch without relying on deep learning frameworks. It is intended for experimental purposes, providing a clear, step-by-step breakdown of forward passes (both elementwise and vectorized), backpropagation logic (manual chain rule for each parameter), different optimizers and how they update weights, various datasets of increasing difficulty to illustrate how networks adapt, while the ElementWiseFFN and MatrixFFN classes serve primarily as teaching tools, the MultiLayerFFN class is more flexible and closer to real-world architectures.
 
 ## Table of Contents
-### 1. Features
-### 2. Installation
-### 3. Usage
+1. Features
+2. Installation
+3. Usage
 ---
 
 ## 1. Features
