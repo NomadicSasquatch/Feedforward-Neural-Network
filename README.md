@@ -34,11 +34,11 @@ A fully custom feedforward neural network framework built from scratch using Pyt
     cd Feedforward-Neural-Network
    ```
 2. Set up a Python Virtual Environment:
-  ```bash
+   ```bash
     python -m venv venv
     source venv/bin/activate #on Mac
     venv\Scripts\activate #on Windows
-  ```
+   ```
 3. Install Dependencies:
    ```bash
      pip install -r requirements.txt
